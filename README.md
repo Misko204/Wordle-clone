@@ -1,4 +1,4 @@
-\# Wordle Clone
+# Wordle Clone
 
 
 
@@ -6,39 +6,39 @@ A Wordle-inspired word guessing game built with vanilla HTML, CSS and JavaScript
 
 
 
-\## Features
+## Features
 
-\- 6 attempts to guess a secret 5-letter word
+- 6 attempts to guess a secret 5-letter word
 
-\- Color-coded feedback after each guess (green / yellow / gray)
+- Color-coded feedback after each guess (green / yellow / gray)
 
-\- On-screen keyboard that updates with feedback colors
+- On-screen keyboard that updates with feedback colors
 
-\- Rules popup with instructions
+- Rules popup with instructions
 
-\- Statistics popup with guess distribution chart
+- Statistics popup with guess distribution chart
 
-\- Restart button to start a new game
-
-
-
-\## Technologies
-
-\- HTML5
-
-\- CSS3
-
-\- Vanilla JavaScript
+- Restart button to start a new game
 
 
 
-\## How to run
+## Technologies
+
+- HTML5
+
+- CSS3
+
+- Vanilla JavaScript
+
+
+
+## How to run
 
 Just open `wordle.html` in any browser — no installation needed.
 
 
 
-\## About
+## About
 
 Built as a university lab project for the Web Design course at the School of Electrical Engineering, University of Belgrade.
 
